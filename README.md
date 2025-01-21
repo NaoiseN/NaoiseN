@@ -64,8 +64,6 @@
 - UI/UX Design (Figma)
 
 ## 🌟 Featured Projects
-🚀 [AAC Application]() - Social communication aid app for neurodiverse adults  
-🎨 [Flag Guessing Game]() - Android game testing country recognition  
 
 ## 📊 GitHub Stats
 ![GitHub Stats]
