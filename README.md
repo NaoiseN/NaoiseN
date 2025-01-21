@@ -1,16 +1,24 @@
-## Hi there 👋
+
+# 👋 Hi, I'm Naoise Norwood!
 
 <!--
-**NaoiseN/NaoiseN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💻 About Me
+🎓 Computer Science Student at Ulster University  
+🚀 Working on my final year project - developing an Android Application for users of AAC (Augmentative and Alternative Communication)   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Skills
+- Java, Python
+- Android Development (Jetpack Compose, XML)
+- UI/UX Design (Figma)
+
+## 🌟 Featured Projects
+🚀 [AAC Application]() - Social communication aid app for neurodiverse adults  
+🎨 [Flag Guessing Game]() - Android game testing country recognition  
+
+## 📊 GitHub Stats
+![GitHub Stats]
+
+🔗 [LinkedIn](www.linkedin.com/in/naoise-norwood-a03777199)
+
 -->
