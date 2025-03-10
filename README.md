@@ -33,7 +33,9 @@
 - Web Technologies
 
 ### 🔒 Security & Cloud Technologies
-- Computer Security
+- CyberSecurity
+- Pen-Testing
+- VMWare
 - AWS (Cloud Technologies)
 
 ### 🎨 UI/UX & Design
@@ -42,10 +44,12 @@
 
 ### 🧪 Testing & Quality Assurance
 - Testing Methodologies & Tools
+- Unit Testing
+- XML Testing
+- User Testing
+- Functional Testing
 
 ## 🌟 Featured Projects
-🚀 [AAC Application]() - Social communication aid app for neurodiverse adults  
-🎨 [Flag Guessing Game]() - Android game testing country recognition  
 
 ## 📊 GitHub Stats
 ![GitHub Stats]
