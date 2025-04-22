@@ -50,12 +50,6 @@
 - Functional Testing
 
 ## 🌟 Featured Projects
-
-## 📊 GitHub Stats
-![GitHub Stats]
-
-🔗 [LinkedIn](www.linkedin.com/in/naoise-norwood-a03777199)
-
 <!--
 
 ## 💻 About Me
