@@ -1,55 +1,55 @@
 
-# 👋 Hi, I'm Naoise Norwood!
+# Hi, I'm Naoise Norwood!
 
-## 💻 About Me
-🎓 Computer Science Student at Ulster University  
-🚀 Working on my final year project - developing an Android Application for users of AAC (Augmentative and Alternative Communication)   
+## About Me
+Computer Science Student at Ulster University 
+Working on my final year project - developing an Android Application for users of AAC (Augmentative and Alternative Communication)   
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 - Java (8, 17), Python, C#
 - HTML, XML, CSS, JSON
 - SQL (DDL, DML)
 
-### 🔗 API Development
+### API Development
 - SOAP & RESTful Development
 - Postman (API Development & Testing)
 
-### 🗄️ Databases & Management
+### Databases & Management
 - SQL, XAMPP, MariaDB, DBeaver
 
-### 🛠️ Development Tools & IDEs
+### Development Tools & IDEs
 - IntelliJ IDEA, Visual Studio
 - GitHub (Version Control), Git
 
-### 🎯 Software Development & Modelling
+### Software Development & Modelling
 - Object-Oriented Programming (Java)
 - Process Modelling, Data Modelling, UML
 - Software Development Lifecycle (SDLC)
 
-### 🌐 Web Development & Frameworks
+### Web Development & Frameworks
 - Spring Boot
 - Web Technologies
 
-### 🔒 Security & Cloud Technologies
+### Security & Cloud Technologies
 - CyberSecurity
 - Pen-Testing
 - VMWare
 - AWS (Cloud Technologies)
 
-### 🎨 UI/UX & Design
-- Figma (UI/UX Design)
-- Computer Arithmetic & Datapath
+### UI/UX & Design
+- Figma (Storyboards)
+- Accessible Design - WCAG 2.1 
 
-### 🧪 Testing & Quality Assurance
+### Testing & Quality Assurance
 - Testing Methodologies & Tools
 - Unit Testing
 - XML Testing
 - User Testing
 - Functional Testing
 
-## 🌟 Featured Projects
+## Featured Projects
 <!--
 
 ## 💻 About Me
