@@ -1,5 +1,4 @@
 
-# Hi, I'm Naoise Norwood!
 
 ## About Me
 Computer Science Student at Ulster University 
